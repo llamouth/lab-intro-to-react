@@ -1,0 +1,15 @@
+img {
+    width: 130px;
+    height: 130px;
+}
+
+.profile {
+    border: 2px solid;
+    display: flex;
+    height: 200px;
+    border: 2px solid black;
+    grid-area: UserProfile;
+}
+
+
+

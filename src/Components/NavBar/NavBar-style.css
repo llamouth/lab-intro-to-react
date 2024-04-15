@@ -1,0 +1,12 @@
+.nav {
+    background: #156960;
+    display: flex;
+    justify-content: end;
+    height: fit-content;
+    border: 2px solid black;
+    grid-area: NavBar;
+}
+
+button {
+    margin: 10px;
+}
